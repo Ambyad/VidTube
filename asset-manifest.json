@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VidTube/static/css/main.7064deb2.css",
+    "main.js": "/VidTube/static/js/main.94be78ae.js",
+    "index.html": "/VidTube/index.html",
+    "main.7064deb2.css.map": "/VidTube/static/css/main.7064deb2.css.map",
+    "main.94be78ae.js.map": "/VidTube/static/js/main.94be78ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.94be78ae.js"
+  ]
+}
